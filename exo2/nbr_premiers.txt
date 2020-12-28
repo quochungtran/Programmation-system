@@ -1,0 +1,32 @@
+2 est un nombre premier écrit par le processus 8971 qui a créé le processus system, le PID de son pere est: 8970 
+ --le PID de processus qui a écrit le message sur le terminal: 8972
+3 est un nombre premier écrit par le processus 8973 qui a créé le processus system, le PID de son pere est: 8970 
+ --le PID de processus qui a écrit le message sur le terminal: 8974
+5 est un nombre premier écrit par le processus 8975 qui a créé le processus system, le PID de son pere est: 8970 
+ --le PID de processus qui a écrit le message sur le terminal: 8976
+7 est un nombre premier écrit par le processus 8977 qui a créé le processus system, le PID de son pere est: 8970 
+ --le PID de processus qui a écrit le message sur le terminal: 8978
+11 est un nombre premier écrit par le processus 8979 qui a créé le processus system, le PID de son pere est: 8970 
+ --le PID de processus qui a écrit le message sur le terminal: 8980
+13 est un nombre premier écrit par le processus 8982 qui a créé le processus system, le PID de son pere est: 8981 
+ --le PID de processus qui a écrit le message sur le terminal: 8983
+17 est un nombre premier écrit par le processus 8984 qui a créé le processus system, le PID de son pere est: 8981 
+ --le PID de processus qui a écrit le message sur le terminal: 8985
+19 est un nombre premier écrit par le processus 8986 qui a créé le processus system, le PID de son pere est: 8981 
+ --le PID de processus qui a écrit le message sur le terminal: 8987
+2 est un nombre premier écrit par le processus 9011 qui a créé le processus system, le PID de son pere est: 9010 
+ --le PID de processus qui a écrit le message sur le terminal: 9012
+3 est un nombre premier écrit par le processus 9013 qui a créé le processus system, le PID de son pere est: 9010 
+ --le PID de processus qui a écrit le message sur le terminal: 9014
+5 est un nombre premier écrit par le processus 9015 qui a créé le processus system, le PID de son pere est: 9010 
+ --le PID de processus qui a écrit le message sur le terminal: 9016
+7 est un nombre premier écrit par le processus 9017 qui a créé le processus system, le PID de son pere est: 9010 
+ --le PID de processus qui a écrit le message sur le terminal: 9018
+11 est un nombre premier écrit par le processus 9019 qui a créé le processus system, le PID de son pere est: 9010 
+ --le PID de processus qui a écrit le message sur le terminal: 9020
+13 est un nombre premier écrit par le processus 9022 qui a créé le processus system, le PID de son pere est: 9021 
+ --le PID de processus qui a écrit le message sur le terminal: 9023
+17 est un nombre premier écrit par le processus 9024 qui a créé le processus system, le PID de son pere est: 9021 
+ --le PID de processus qui a écrit le message sur le terminal: 9025
+19 est un nombre premier écrit par le processus 9026 qui a créé le processus system, le PID de son pere est: 9021 
+ --le PID de processus qui a écrit le message sur le terminal: 9027
